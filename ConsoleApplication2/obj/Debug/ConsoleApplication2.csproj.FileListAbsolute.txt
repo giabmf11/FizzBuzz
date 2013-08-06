@@ -1,0 +1,8 @@
+c:\users\gregorygo\documents\visual studio 2012\Projects\fizzbuzz\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\gregorygo\documents\visual studio 2012\Projects\fizzbuzz\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\gregorygo\documents\visual studio 2012\Projects\fizzbuzz\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\gregorygo\documents\visual studio 2012\Projects\fizzbuzz\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+c:\users\gregorygo\documents\visual studio 2012\Projects\fizzbuzz\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\gregorygo\documents\visual studio 2012\Projects\fizzbuzz\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+c:\users\gregorygo\documents\visual studio 2012\Projects\fizzbuzz\ConsoleApplication2\bin\Debug\FizzBuzz.dll
+c:\users\gregorygo\documents\visual studio 2012\Projects\fizzbuzz\ConsoleApplication2\bin\Debug\FizzBuzz.pdb

@@ -1,0 +1,4 @@
+c:\users\gregorygo\documents\visual studio 2012\Projects\fizzbuzz\FizzBuzz\bin\Debug\FizzBuzz.dll
+c:\users\gregorygo\documents\visual studio 2012\Projects\fizzbuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+c:\users\gregorygo\documents\visual studio 2012\Projects\fizzbuzz\FizzBuzz\obj\Debug\FizzBuzz.dll
+c:\users\gregorygo\documents\visual studio 2012\Projects\fizzbuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
