@@ -74,7 +74,7 @@ namespace FizzBuzz
                 }
             }
             watch.Stop();
-            Console.Write(string.Format("Total elapsed time: {0} seconds", watch.ElapsedMilliseconds));
+            Console.Write(string.Format("Total elapsed time: {0} milliseconds", watch.ElapsedMilliseconds));
         }
     }
 }
